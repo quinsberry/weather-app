@@ -4,7 +4,9 @@ This is the Weather app in React which helps you to know the weather in your tow
 It works with openweathermap.org API.
 
 Technologies: React, sass.<br />
-Libraries: none.
+Libraries: none. <br/>
+<br/>
+The app is not finished.
 
 ## Available Scripts
 
