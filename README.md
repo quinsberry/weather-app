@@ -1,9 +1,9 @@
 ## Description
 
 This is the Weather app in React which helps you to know the weather in your town :)
-It works with [openweathermap.org](openweathermap.org) API.
+It works with openweathermap.org API.
 
-Technologies: React, sass.
+Technologies: React, sass.<br />
 Libraries: none.
 
 ## Available Scripts
