@@ -1,0 +1,28 @@
+form {
+  margin-top: 6rem;
+  color: white;
+  input[name="city"], input[name="country"] {
+    background: transparent;
+    color: white;
+    border: 0;
+    border-bottom: 2px solid whitesmoke;
+    border-radius: 0;
+
+    &:focus {
+      background-color: transparent;
+      box-shadow: none;
+      color: white;
+    }
+  }
+  .btn {
+    background: #ea991f;
+    transition: .2s;
+    &:hover {
+      background-color: #cd8313;
+    }
+    &:active, &:focus {
+      background-color: #cd8313 !important;
+      border: 1px solid #cd8313 !important;
+    }
+  }
+}
